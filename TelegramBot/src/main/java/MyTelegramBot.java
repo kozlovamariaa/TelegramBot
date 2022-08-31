@@ -17,7 +17,7 @@ import java.util.HashMap;
 
 
 public class MyTelegramBot extends TelegramLongPollingBot  {
-    private final String BOT_TOKEN = "5285355062:AAE4xuw5c-8ZaTwpntp1EO6JPMmGJ3omy8Y";
+    private final String BOT_TOKEN = "secret string";
     private static final String BOT_NAME = "YourMoneySuperBot";
     private Timer timer;
     private Location location;
